@@ -1,0 +1,10 @@
+A suspicious email with a malicious attachment is received by an employee.
+A website is defaced with political messages.
+A ransomware attack encrypts all the files on a server.
+A phishing email convinces an employee to disclose their password.
+A rogue access point is discovered on the network.
+An unauthorized person gains access to sensitive data.
+A denial of service attack disrupts the availability of a website.
+Malware is detected on a user's computer.
+A vulnerability is discovered in a widely used software.
+An employee loses their laptop with sensitive data.
